@@ -1,0 +1,12 @@
+.card-container {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.img-container {
+  margin-right: 20px;
+}
+.paragraph {
+  width: 100%;
+}

@@ -1,0 +1,9 @@
+.list-container {
+  margin: 0 20%;
+}
+.list {
+  list-style: none;
+}
+.list:not(:last-child) {
+  margin-bottom: 20px;
+}
